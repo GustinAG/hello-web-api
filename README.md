@@ -1,8 +1,11 @@
-# hello-web-api
+# hello-web-api-cicd
 Hello World ASP.NET Web API 2
 
 Deployed to:
     http://gustinhelloapi.azurewebsites.net
+    
+## Goal of This
+Play around with extremely simplified CI/CD.
 
 ## What You Need for This
  + Visual Studio 2017 Update 3.5 - *or higher*
