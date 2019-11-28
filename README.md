@@ -1,8 +1,11 @@
 # hello-web-api
 Hello World ASP.NET Web API 2
 
+Deployed to:
+    http://gustinhelloapi.azurewebsites.net
+
 ## What You Need for This
- + Visual Studio 2017 Update 3.5
+ + Visual Studio 2017 Update 3.5 - *or higher*
 
 ### *Visual Studio 2017 / Git Technical Hints*
 #### *Git Config*
