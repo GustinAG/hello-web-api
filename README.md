@@ -7,8 +7,17 @@ Deployed to:
 ## Goal of This
 Play around with extremely simplified CI/CD.
 
+## How To Deploy - Manually
+ + **HelloApi** &rarr; Publish... &rarr; **Publish**
+ + ***Password?*** &rarr; [Azure Portal](https://portal.azure.com/) &rarr; **GustinHelloApi** &rarr; Overview &rarr; Get publish profile
+
 ## What You Need for This
- + Visual Studio 2017 Update 3.5 - *or higher*
+ + Visual Studio 2019 - *or higher* - including:
+    + C# stuff
+    + .NET Framework 4.6.1
+	+ Markdown Editor
+ + Also recommended:
+    + Notepad++ including XML Tools
 
 ### *Visual Studio 2017 / Git Technical Hints*
  + [TortoiseGit vs GitKraken detailed comparison as of 2019 - Slant](https://www.slant.co/versus/13486/13489/~tortoisegit_vs_gitkraken)
