@@ -14,7 +14,7 @@ Play around with extremely simplified CI/CD.
 ## What You Need for This
  + Visual Studio 2019 - *or higher* - including:
     + C# stuff
-    + .NET Framework 4.6.1
+    + .NET Framework 4.8
 	+ Markdown Editor
  + ReSharper 2019.2.3 - *or higher*
  + Also recommended:
