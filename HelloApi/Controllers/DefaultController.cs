@@ -8,6 +8,6 @@ namespace HelloApi.Controllers
         private static string Version => typeof(DefaultController).Assembly.GetName().Version.ToString();
 
         [Route("")]
-        public string Get() => $"Hello World! - version {Version}";
+        public string Get() => $"Hello World! - version {Version} - via CI/CD pipeline!";
     }
 }
