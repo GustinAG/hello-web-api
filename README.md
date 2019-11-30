@@ -15,10 +15,7 @@ Play around with extremely simplified CI/CD.
  + ***Password?*** &rarr; [Azure Portal](https://portal.azure.com/) &rarr; **GustinHelloApi** &rarr; Overview &rarr; Get publish profile
 
 ### CI/CD
-*...still working on it...*
-
 Just simply commit into the **master** branch! <br />
-*(That's how it **should** work.)*
 
 #### How it was set up
  + [Azure Portal](https://portal.azure.com/) &rarr; **GustinHelloApi** &rarr; Deployment Center... &rarr; just follow the wizard...
