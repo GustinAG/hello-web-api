@@ -16,6 +16,7 @@ Play around with extremely simplified CI/CD.
     + C# stuff
     + .NET Framework 4.6.1
 	+ Markdown Editor
+ + ReSharper 2019.2.3 - *or higher*
  + Also recommended:
     + Notepad++ including XML Tools
 
