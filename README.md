@@ -20,15 +20,8 @@ Play around with extremely simplified CI/CD.
  + Also recommended:
     + Notepad++ including XML Tools
 
-### *Visual Studio 2017 / Git Technical Hints*
+### *Visual Studio 2019 / Git Technical Hints*
  + [TortoiseGit vs GitKraken detailed comparison as of 2019 - Slant](https://www.slant.co/versus/13486/13489/~tortoisegit_vs_gitkraken)
- 
-#### *Git Config*
- + [GIT - default repository location](https://developercommunity.visualstudio.com/content/problem/24817/git-default-repository-location.html)
- + [git config: Unknown config - comment-16017](https://developercommunity.visualstudio.com/content/problem/15847/git-config-unknown-config-fileugitconfig.html#comment-16017)
-
-#### *Git Account*
- + [Visual Studio Tools for Git, a primer](http://www.codewrecks.com/blog/index.php/2013/03/17/visual-studio-tools-for-git-a-primer/)
 
 #### *Git Bash*
  + [integrating Git Bash with Visual Studio](https://stackoverflow.com/questions/8025108/integrating-git-bash-with-visual-studio#20904471)
