@@ -1,3 +1,5 @@
+[![Build Status](https://gustinn.visualstudio.com/Exp/_apis/build/status/gustinhelloapi%20-%20CI?branchName=master)](https://gustinn.visualstudio.com/Exp/_build/latest?definitionId=3&branchName=master)
+
 # hello-web-api-cicd
 Hello World ASP.NET Web API 2
 
