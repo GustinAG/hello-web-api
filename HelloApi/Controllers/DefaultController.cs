@@ -1,7 +1,9 @@
 ﻿using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace HelloApi.Controllers
 {
+    [EnableCors("*", "*", "*")]
     public class DefaultController : ApiController
     {
         // Based on: https://docs.microsoft.com/en-us/dotnet/api/system.reflection.assemblyname.version?view=netframework-4.8
